@@ -11,7 +11,7 @@ RentEase is a robust House Rental Management System developed using HTML, CSS, P
 - **Admin Dashboard**: A centralized dashboard for streamlined management and oversight.
 
 ## ⚙️ Technologies Used
-- **Frontend**: HTML, CSS, Bootstrap, Font Awesome
+- **Frontend**: HTML, CSS, Bootstrap
 - **Backend**: PHP
 - **Database**: MySQL
 
